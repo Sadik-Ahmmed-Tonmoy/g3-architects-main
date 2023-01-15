@@ -347,7 +347,6 @@ fieldset {
   .features-container{
     flex-direction: column;
     width: 100%;
-    background-color: #727272;
     margin-top: 0;
   }
   .bar{
@@ -372,7 +371,6 @@ fieldset {
   /* some facts */
   .some-facts{
     width: 100%;
-    background-color: #ff900e;
   }
   .some-facts-title{
     width: 94%;
@@ -398,7 +396,6 @@ fieldset {
   .footer-container{
     width: 100%;
     padding: 0;
-    background-color: aqua;
   }
   .sponsor-text{
     width: 94%;
